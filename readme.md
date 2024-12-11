@@ -2,16 +2,7 @@
 
 This project builds a deep learning model to predict the closing prices of the USD/JPY currency pair using historical data. The model is built using a Bidirectional LSTM (Long Short-Term Memory) network and Gated Recurrent Unit(GRU) with feature engineering and data preprocessing techniques to improve accuracy.
 
-# Table of Contents
-- Overview
-- Data Preprocessing
-- Model Architecture
-- Training and Evaluation
-- Results
-- Installation
-- Usage
-- License
-- Overview
+# Objective 
 
 The objective of this project is to forecast the closing price of USD/JPY using past data. The model leverages LSTM and GRU networks, which are effective in learning from sequential data. The network is Bidirectional, allowing it to learn from both past and future trends in the time series data.
 
